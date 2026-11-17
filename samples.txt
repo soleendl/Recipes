@@ -5,5 +5,4 @@
 * Dolphin
 * Human
 * Ape
-* Whale (your mom)
 
