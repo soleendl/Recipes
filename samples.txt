@@ -3,3 +3,6 @@
 * Mouse 
 * Fly 
 * Dolphin
+* Human
+* Ape
+
