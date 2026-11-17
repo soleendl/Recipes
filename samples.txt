@@ -1,9 +1,7 @@
-# Sample List
+# Pizza ingredients list
 
-* Mouse 
-* Fly 
-* Dolphin
-* Human
-* Ape
-* Dog
-* French 
+* dough
+* Cheese 
+* Salami
+* Ham 
+* nice stuff 
